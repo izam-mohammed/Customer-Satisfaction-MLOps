@@ -1,0 +1,69 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+
+# Python environment
+*.pyc
+*.pyo
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Zen folder
+.zen/
+
+# Model files
+*.h5
+*.pkl
+*.joblib
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+
+# Compiled files
+*.pyc
+*.pyo
+*.pyd
+
+# Temporary files
+*.~*
+
+# Ignore pipenv virtual environment
+Pipfile
+Pipfile.lock
+
+# Ignore PyInstaller files
+dist/
+build/
+
+# Ignore coverage reports
+htmlcov/
+
+# Ignore test databases
+*.sqlite3
+
+# Ignore IDE settings
+.vscode/
+.idea/
+
+# Ignore environment file
+.env
+
+# Ignore any other sensitive information
+*.secret
+*.confidential
+
